@@ -5,4 +5,4 @@ Mon école m'a donné un accès à la plateforme DataCamp, je mettrai ici tout c
 *Tous les cursus sont à retrouver dans leur dossier*
 - Principes de l'IA
 - B1 AI /Datacamp/
-- 
+- Comprendre l'ingénierie des invites
