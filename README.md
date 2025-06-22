@@ -7,3 +7,4 @@ Mon école m'a donné un accès à la plateforme DataCamp, je mettrai ici tout c
 - B1 AI /Datacamp/
 - Comprendre l'ingénierie des invites
 - Introduction à Python
+- Travailler avec l'API Open AI
